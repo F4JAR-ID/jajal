@@ -21,3 +21,44 @@ gema " "
 echo $ green " ============== $ red MENU $ green ================= "
 echo $ blue " ================================== "
 echo $ blue " || $ hijau 1. Indosat $ blue || " 
+echo $ blue " || $ green 0. Keluar dari Program $ blue || "
+echo $ blue " ================================== "
+echo $ blue " ╭── [Masukkan Pilihan Anda]> "
+baca -p " ╰───────root @ acepx-code = •> " Gans ;
+if [ $ Gans = 1] || [ $ Gans = 01]
+kemudian
+toilet -f standar " Acep Gans " -F gay
+echo $ blue " Ketik * 556 * Kode voucher # "
+tidur 1
+echo $ green " Sedang Mengumpulkan Kode "
+tidur 1
+echo $ red " Memuat ...... "
+tidur 3
+echo " ==================== " "
+echo $ purple " 48120404907561 "
+tidur 3
+echo " ==================== " "
+echo $ green " 19075621249751 "
+tidur 4
+echo " ==================== " "
+echo $ blue " 21234587498234 "
+tidur 5
+echo " ==================== " "
+echo $ cyan " 12389237019365 "
+tidur 6
+echo " ==================== " "
+echo $ red " 83626483638294 "
+echo " ==================== " "
+tidur 2
+echo $ green " Done "
+tidur 1
+echo $ green " Silakan Di Pilih "
+tidur 1
+if [ $ Gans = 0] || [ $ Gans = 00]
+kemudian
+toilet -f standar " Acep Gans " -F gay
+echo $ purple "keluar yah: v "
+tidur 1
+fi
+fi
+
